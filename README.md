@@ -1,2 +1,3 @@
-# fullcycle-docker-go
-Store the files for the Fullcycle Go chanllenge on the Docker course
+# Full Cycle Go Challenge
+
+The docker image is at `rafaelmsartor/fullcycle:go-challenge`
